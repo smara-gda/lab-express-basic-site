@@ -1,4 +1,7 @@
-p {
-  color: red;
-  font-size: 64px;
+nav {
+  font-size: 26px;
+}
+
+nav a {
+  text-decoration: none;
 }
