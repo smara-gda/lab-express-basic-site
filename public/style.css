@@ -1,7 +1,12 @@
 nav {
   font-size: 26px;
+  width: 364px;
 }
 
 nav a {
   text-decoration: none;
+}
+
+header {
+  display: flex;
 }
